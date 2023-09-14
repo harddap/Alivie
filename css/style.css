@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    padding: 0 175px 0 175px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    padding: 30px 0 30px 0;
+}
+
+.text-block{
+    display: flex;
+    margin-left: 172px;
+}
+.header-txt-1{
+    margin-left: 72px;
+    color: #292929;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 500; 
+}
+.header-txt-2{
+    margin-left: 72px;
+    color: #292929;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 500; 
+}
+.header-txt-3{
+    margin-left: 72px;
+    color: #292929;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 500;   
+}
+.header-txt-4{
+    margin-left: 72px;
+    color: #292929;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 500; 
+}
+
+.header__button{
+    margin-left: 35px;
+}
+
+.header-link{
+    color: #000;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif; 
+    font-weight: 400;
+}
+
+.header-link-box{
+    display: flex;
+    align-items: center;
+    margin-left: 283px;
+}
+
+.header-button-box{
+    margin-left: 85px;
+    color: #FFF;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.header-button{
+    background-color: #01996D;
+    padding: 13px 50px;
+    border-radius: 4px;
+}
